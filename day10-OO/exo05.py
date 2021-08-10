@@ -25,7 +25,7 @@ def find_thanos(str):
                 return item
 
 
-print(find_thanos("灭霸").name)
+# print(find_thanos("灭霸").name)
 
 
 # 删除攻击力小于10的敌人（倒着删不然可能会错过）
@@ -36,4 +36,4 @@ def delete01():
 
 
 delete01()
-print(list01)
+# print(list01)
